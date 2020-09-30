@@ -1,0 +1,32 @@
+Data Visualization 
+Week -1  Quiz
+
+1. Which kind of visualization would you use to try to answer a personal question about your data?
+A. Interactive visualization
+
+2. Which kind of visualization would you use to share a discovery about your data with your colleagues in a slide show?
+A. Presentation visualization
+
+3. Which kind of visualization would you use to create a web page that allows viewers to see a visualization of data that you prepared, but also allows the viewer to further investigate the data?
+A. Interactive storytelling
+
+4. In what order does a data visualization graphics pipeline process information?
+A. Vertex processing, then rasterization, then pixel processing
+
+5. How many items can human working memory (short-term memory) typically hold?
+A. 3-7 Items
+
+6. A light gray box drawn on top of a dark gray background will make the light gray box appear ______________.
+A. Brighter
+
+7. When visualizing data, you should keep your eyes focused on one point for the entire duration of the visualization.
+A. False, because your visual system will play tricks on your perception of the data.
+
+8. On which of these colors does the human eye have the most difficulty focusing?
+A. Blue
+
+9. Which one of the 3-D depth cues below indicates surface orientation?
+A. Illumination
+
+10. Given a plot of life expectancy based on country and birth year, you look up your country and birth year, find the displayed life expectancy, and conclude you will probably live that long. This is an example of _________________.
+A. Deductive Reasoning
