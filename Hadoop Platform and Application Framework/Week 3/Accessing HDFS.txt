@@ -1,0 +1,22 @@
+Week 3 Quiz 3
+Accessing HDFS
+
+1. Which of the following are valid access mechanisms for HDFS
+A. Accessed via Java API
+   Accessed via HTTP
+2. Which of the following is not a valid command to handle data in HDFS?
+A. cp -r /user/data /user/test/
+
+3. Which of the following commands will give information on the status of DataNodes
+A. hdfs dfsadmin -report
+
+4. Which of the following is not a method in FSDataInputStream
+A. hflush
+
+5. You can only read data in HDFS via HTTP
+A. False
+
+6. What are some webhdfs REST API related parameters in HDFS
+A. dfs.webhdfs.enabled
+   dfs.web.authentication.kerberos.keytab
+
